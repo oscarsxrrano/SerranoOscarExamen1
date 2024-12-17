@@ -1,6 +1,6 @@
 <script setup>
 import { inject } from 'vue';
-
+ 
 const products = inject('products');
 </script>
 
